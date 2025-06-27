@@ -5,7 +5,7 @@ y guardando los datos en un archivo Excel con capturas de pantalla.
 
 ---
 
-## 🚀 ¿Qué hace este proyecto?
+## ¿Qué hace este proyecto?
 
 1. Ingresa a MercadoLibre y selecciona país (México).
 2. Busca un producto (ej. "Playstation 5").
